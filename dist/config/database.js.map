@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/config/database.js"],"names":["module","exports"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB;AACf,YAAS,aADM;AAEf,cAAW,6BAFI;AAGf,gBAAc;AAHC,CAAjB","file":"database.js","sourcesContent":["module.exports = {\n  'secret':'sawappyAUTH',\n  'database':'mongodb://localhost/SAWAPPY',\n  'serverPort': '3000'\n}\n"]}

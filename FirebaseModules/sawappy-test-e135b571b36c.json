@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sawappy-test",
+  "private_key_id": "e135b571b36cf1f7a32e4a9f369d4d367767f7a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1i2WYGBOS9sqY\nNqqYWzMv3jJWdZP9ND1L7XzZyo3jAQBfCnJ+EDLj/5tUXTZG6IHXDAPKuK+DM7tc\nNj+wNFe2JIz9/RMVVCkvw+/4VKfTPuFOR69lhnRCOEQMZUeWd9ZmES+2tBQJC/f6\n2G1B+JPIlJi+OnljVntFAwlW9KlkN7gPPuBpOxyJ1ZH8W0hguur+1KrrrH2vwoPe\nHXV9tRW/MC9QUwB6Ft1jIcDBUgW/+9Bfrr7WpPNVNyk6Wff7pkosVm9yGZBdkDfR\nYXF4IouEK1jqdl6fJGvvdp8RIUu8R114fBlY10RHGp04JlFCoywOpBPWBoTrl792\ncqDdtYjhAgMBAAECggEACPZE8WVs3/IpbaqzMLq90+Tc6Mo8oEEKLpuecHTwnK5x\nuX9fSAxeKsW1Qgyo74auVDKeZE1KMsikvOhbrAPleZMj16z82m5xaw954vEw6Lt/\nrVjaFoG07wjuiQsd5dZsIdVC3PrWS10JJJu3BwzxpLL7OFbUI7yC8NT1ytJgo1cM\nSrZmS0m5wc+IzAWvB2IcEER/z+e87fPUFD6iHYApJttLh2bGvD9xjrKFNwZ1A0Kq\n3QEkPETAGS7Y9zvOBoKmawqy1yO5Dbvpd9G++UhrmNaaLZjXZ0MI8OKO1zOkdBCj\nI8YACIyBFHVsoTY2UZFTerIULovn+5CiBTOpWxnrPQKBgQD6szSDonbH28Vl3J2C\nhoZktWPlYCqWBaYtuhC4YxPGzGIDdEU9uWYOj0ql1owN/2gONHCKlE32sNIteOpL\n/cFySwqjiQ9AJ6O+jKoy5iZg+eI/99MVdOTGSWoginItt2lr9Z33Z0lI/fv0mlkD\nufaw5Z+EQhav+3QMmQ4EVgDErQKBgQC5Yeue2oIEhSF5IZUi6/py1L2yqR4EuqXb\n69oRbKoUX1B3GFheMsyjDvFnCPJ5d0pCGxm0/QEz1ucE43W0ZN2WwxRgXi9PcUrg\nq75m8XY2HK1P7R35ak7S22az1oux7tyzYfqTIf97I+O4h7zXfead73eVZ1dPQMMY\nk95OaN0nhQKBgQDrIIxOMV+qDqtS39kyhC0j4yQwC0OltOKo3Gu2I+Z2e1Yp2zDd\ntTbMzQO8Cj8NGdBkEjbDIlkE184oK9HDN9no8gymWHPfPc5Ldu5iEo1IQtU6HZrx\n8tJmTpCkuHRiADV1tcVUNqD7PorCXMjDv/Ro8NPtXXad0v6CmkIVOvw5eQKBgET6\n3LPVVr/b0eLCzj2aVSzZYGTUbOkRkpnMnu4Q4xCFjulh06/pcx/RdZ4DREZSTv1e\nHCiuY/4oHvpAsRGY3qM0n6ZkJXKIE3aaMVUY0AW+kfbFonumRQJMxWBxmrVwzgqp\nkJWi9u+ZISkOyQPeQyvNaU/cji5dSLsienvupSwJAoGBAKmhcAM35w8KUEbX/UpA\n3Kp/UV5YBod4L3oQ/gsZ4LcXpZQHMicQKQVAE9hOU1t7x9RwdOB91vC4sjd+s3Dr\nrJppnKCFABuaiiDfD08fd03Ic971M3t7FmgMDc5qvORxt/R3i1xF23OkgLTe3pGf\nvwDJ36n41Nsr7mYT0i8UFqWt\n-----END PRIVATE KEY-----\n",
+  "client_email": "sawappyservernode@sawappy-test.iam.gserviceaccount.com",
+  "client_id": "117522045317518953500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sawappyservernode%40sawappy-test.iam.gserviceaccount.com"
+}
