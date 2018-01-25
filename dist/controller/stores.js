@@ -65,6 +65,7 @@ exports.default = function (_ref) {
 
   //GET 'v1/store'
   api.get('/', function (req, res) {
+    res.send({ mesage: 'hola' });
     _store2.default.find({}, function (err, stores) {
       if (err) {
         res.send(err);

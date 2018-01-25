@@ -59,6 +59,10 @@ _passport2.default.deserializeUser(Account.deserializeUser());
 //api routes v1
 app.use('/v1', _routes2.default);
 
+app.get('/', function (req, res) {
+  res.send('hello api');
+});
+
 app.server.listen(_config2.default.port);
 console.log('Started at port ' + app.server.address().port);
 console.log(Date());

@@ -50,6 +50,7 @@ var router = (0, _express2.default)();
   //internal middleware
   router.use((0, _middleware2.default)({ config: _config2.default, db: db }));
   //api routes
+
   router.use('/store', (0, _stores2.default)({ config: _config2.default, db: db }));
   router.use('/user', (0, _users2.default)({ config: _config2.default, db: db }));
   router.use('/account', (0, _account2.default)({ config: _config2.default, db: db }));
